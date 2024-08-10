@@ -87,13 +87,6 @@ This project was developed as part of the **TNS India Foundation** Java Full Sta
 
 If you would like to contribute to this project, please fork the repository and submit a pull request with your changes. Ensure that you follow the coding standards and include relevant tests.
 
-## License
-
-This project is licensed under the [MIT License](LICENSE).
-
 ## Contact
 
 For any questions or issues, please contact [K Naveen Kumar](mailto:knaveenkumar0103@gmail.com).
-```
-
-Feel free to adjust any sections as needed!
