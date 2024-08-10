@@ -1,7 +1,6 @@
 # Placement_Management_System
 
-The **Placement Management System** is a web application built with Spring Boot for the backend and plain HTML/CSS/JavaScript for the frontend. It provides CRUD operations for managing admin users. The application includes login functionality, a CRUD operations page, and is designed to be user-friendly and responsive.
-
+The **Placement Management System** is a web application built with Spring Boot for the backend and plain HTML/CSS/JavaScript for the frontend, developed as part of the **TNS India Foundation** **Java Full Stack** training. It provides CRUD operations for managing admin users, includes login functionality, and a CRUD operations page, all designed to be user-friendly and responsive.
 ## Features
 
 - **Login Page**: Allows admins to log in using their credentials.
